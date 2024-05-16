@@ -1,0 +1,24 @@
+
+body{
+    font-family: "Roboto", sans-serif;
+}
+.banner{
+    background-image: url(../images/7.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px 0;
+
+}
+.skills-padding{
+    padding: 70px 0;
+}
+
+.h4{
+    text-align: right;
+    align-items: end;
+
+}
+
+.media{
+ padding: 50p;
+}
